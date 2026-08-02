@@ -1,0 +1,14 @@
+{
+  "id": "{C86E5442-13CF-4145-B23C-EF2B7635D79E}",
+  "name": "Open-Meteo Solar Forecast",
+  "type": 3,
+  "vendor": "Open-Meteo",
+  "aliases": [
+    "Open-Meteo Solar Forecast"
+  ],
+  "url": "https://github.com/doctee/symcon-ai-framework",
+  "parentRequirements": [],
+  "childRequirements": [],
+  "implemented": [],
+  "prefix": "OMSOLAR"
+}

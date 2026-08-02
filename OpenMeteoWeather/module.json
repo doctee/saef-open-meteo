@@ -1,0 +1,14 @@
+{
+  "id": "{B52FE951-7FBE-4882-B0E6-E143E5B5F31A}",
+  "name": "Open-Meteo Weather",
+  "type": 3,
+  "vendor": "Open-Meteo",
+  "aliases": [
+    "Open-Meteo Weather"
+  ],
+  "url": "https://github.com/doctee/symcon-ai-framework",
+  "parentRequirements": [],
+  "childRequirements": [],
+  "implemented": [],
+  "prefix": "OMWEATHER"
+}
